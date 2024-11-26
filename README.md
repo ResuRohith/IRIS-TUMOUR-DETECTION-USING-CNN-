@@ -113,14 +113,7 @@ The application is designed for deployment on cloud platforms such as Heroku or 
 
 ---
 
-  License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
   Acknowledgements
 
 - AI frameworks: TensorFlow, PyTorch
 - Web hosting: Heroku/AWS
-- Dataset providers: [Include any datasets used]
